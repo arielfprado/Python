@@ -1,2 +1,2 @@
 # Python
-Repository for Python projects and discussions
+##### Repository for Python projects and discussions :snake:
